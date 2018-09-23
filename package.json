@@ -1,5 +1,5 @@
 {
-  "name": "bs-callbag-for-each",
+  "name": "@ristostevcev/bs-callbag-for-each",
   "version": "1.0.0",
   "scripts": {
     "clean": "bsb -clean-world",
